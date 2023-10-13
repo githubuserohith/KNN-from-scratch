@@ -1,0 +1,7 @@
+﻿Make,Model,Vehicle Class,Engine Size(L),Cylinders,Transmission,Fuel Type,Fuel Consumption City (L/100 km),Fuel Consumption Hwy (L/100 km),Fuel Consumption Comb (L/100 km),Fuel Consumption Comb (mpg),CO2 Emissions(g/km)
+VOLKSWAGEN,Passat,MID-SIZE,2,4,AS6,X,10.2,6.9,8.7,32,205
+VOLKSWAGEN,Tiguan,SUV - SMALL,2,4,AS8,X,10.5,8.1,9.4,30,221
+VOLKSWAGEN,Tiguan 4MOTION,SUV - SMALL,2,4,AS8,X,11.5,8.7,10.2,28,241
+VOLVO,S60 T5,COMPACT,2,4,AS8,Z,10.5,7.1,8.9,32,208
+VOLVO,S60 T6 AWD,COMPACT,2,4,AS8,Z,11,7.4,9.4,30,219
+VOLVO,S90 T6 AWD,MID-SIZE,2,4,AS8,Z,11.3,7.5,9.6,29,223
